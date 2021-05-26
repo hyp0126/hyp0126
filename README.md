@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![hyp0126's github stats](https://github-readme-stats.vercel.app/api?username=hyp0126&count_private=true&show_icons=true&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyp0126&layout=compact)
+
 <!--
 **hyp0126/hyp0126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
